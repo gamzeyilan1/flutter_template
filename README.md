@@ -44,7 +44,7 @@ dynamic theme to state management and tests eveything is prepared for your use. 
 
 
 ## Screenshots
-// TO DO: Add Screenshor
+// TO DO: Add Screenshot
 
 
 ## Setup
