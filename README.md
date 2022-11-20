@@ -56,7 +56,7 @@ dynamic theme to state management and tests eveything is prepared for your use. 
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+Project is: in progress. I will always be improving and maintaining.
 
 
 ## Room for Improvement
