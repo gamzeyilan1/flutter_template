@@ -17,8 +17,8 @@ dynamic theme to state management and tests eveything is prepared for your use. 
 
 
 ## General Information
-- This is a throughout template to get started with the front end of a Whoop Project.
-- Written with Flutter, it provides the front end for an app on both IOS and Android.
+- This is a throughout template to get started with a Flutter Project.
+- It provides the front end for an app on both IOS and Android.
 - It consists of the business layer, the must-haves and the project structure. All you need to do is to integrate the design & enter the design.
 - There are examples on how you can use the logic and the integrated tools smoothly.
 
