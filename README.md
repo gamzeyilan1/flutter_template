@@ -1,5 +1,5 @@
 # Flutter Template
-> This is a Flutter Project template to get you a boost start with your Flutter project. From localization to cache, providers to structure, 
+> This is a Flutter Project Template to get you a boost start with your Flutter project. From localization to cache, providers to structure, 
 dynamic theme to state management and tests eveything is prepared for your use. Just set it up as explained below and create your widgets & integrate your design without having to worry about anything else.
 
 ## Table of Contents
