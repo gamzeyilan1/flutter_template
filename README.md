@@ -44,7 +44,7 @@ dynamic theme to state management and tests eveything is prepared for your use. 
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+// TO DO: Add Screenshor
 
 
 ## Setup
